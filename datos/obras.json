@@ -1,0 +1,38 @@
+[
+    {
+        "codigo": "001",
+        "foto_url": "https:\/\/th.bing.com\/th\/id\/OIP.Wz_na83W7Mo1toZvFWGMiQHaEK?w=288&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "tipo": "Serie",
+        "nombre": "teen wolf",
+        "descripcion": "De hombres lobos",
+        "pais": "USA",
+        "autor": "anonimo"
+    },
+    {
+        "codigo": "002",
+        "foto_url": "https:\/\/th.bing.com\/th\/id\/OIP.XKl_SAb36YmGhaUGhQO-_wHaFj?w=207&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "tipo": "Serie",
+        "nombre": " The Walking Dead",
+        "descripcion": "Es de zombies",
+        "pais": "USA",
+        "autor": "anonimo"
+    },
+    {
+        "codigo": "003",
+        "foto_url": "https:\/\/th.bing.com\/th\/id\/OIP.aZ0g4iiG39JWC4PtdvjbHAHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "tipo": "Serie",
+        "nombre": "RICK AND MORTY",
+        "descripcion": "Ficcion",
+        "pais": "USA",
+        "autor": "Anonimo"
+    },
+    {
+        "codigo": "004",
+        "foto_url": "https:\/\/th.bing.com\/th\/id\/OIP.Bty1UmYuRZWh0mQ_JF0jAQHaEK?w=293&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "tipo": "Serie",
+        "nombre": "The Last Of us",
+        "descripcion": "DE ZOMBIES",
+        "pais": "USA",
+        "autor": "ANONIMO"
+    }
+]
